@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Hitesh!
 
 **Get in touch:**
-[![Linkedin Badge] (https://img.shields.io/badge/-Hitesh-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hitesh-n-0433091a3/)](https://www.linkedin.com/in/hitesh-n-0433091a3/) [![Github Badge](https://img.shields.io/badge/-hitesh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hiteshjck/)](https://www.github.com/hiteshjck/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Hitesh-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hitesh-n-0433091a3/)](https://www.linkedin.com/in/hitesh-n-0433091a3/) [![Github Badge](https://img.shields.io/badge/-hitesh-grey?style=flat&logo=github&logoColor=white&link=https://github.com/hiteshjck/)](https://www.github.com/hiteshjck/) 
 
 
 
