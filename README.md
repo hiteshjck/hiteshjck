@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Hitesh!
 
 **Get in touch:**
-![Linkedin Badge](https://img.shields.io/badge/-andrespedes12-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)
+![Linkedin Badge](https://img.shields.io/badge/-Hitesh-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrespedes12/)
 
 <!--
 **hiteshjck/hiteshjck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
